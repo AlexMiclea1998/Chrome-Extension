@@ -1,5 +1,4 @@
 .App {
-  position: absolute;
   top: 0px;
   bottom: 0px;
   left: 0px;
@@ -8,6 +7,7 @@
   height: 100%;
   padding: 10px;
   background-color: #282c34;
+
 }
 
 .App-logo {
